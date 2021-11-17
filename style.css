@@ -1,0 +1,30 @@
+h1
+{
+  text-align : center;
+  background-color : rgba(0,50,255,0.4);
+  padding : 12px;
+  margin : 15px;
+}
+
+#textepresentation
+{
+  
+  border : 5px dashed black;
+  position : relative;
+}
+
+#imgPresentation
+{
+  border : 3px solid black;
+  margin : 10px;
+  float : left;
+}
+
+footer
+{
+  text-align : center;
+  background-color : lightgrey;
+  padding:12px;
+}
+
+article
